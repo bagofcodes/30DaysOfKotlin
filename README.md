@@ -32,4 +32,4 @@ interaction.
 6. Perform a Gradle sync (click on 'Sync now' in the popup).
 7. Build and Run the project.
 
-###THANK YOU
+### THANK YOU
